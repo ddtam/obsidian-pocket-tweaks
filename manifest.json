@@ -1,7 +1,7 @@
 {
   "id": "navbar-omnisearch",
-  "name": "Navbar Omnisearch",
-  "version": "0.1.0",
+  "name": "Omnisearch in Navbar",
+  "version": "0.1.1",
   "minAppVersion": "1.5.0",
   "description": "Makes the search button in the phone's bottom navbar open Omnisearch instead of the Quick Switcher.",
   "author": "Derek",
