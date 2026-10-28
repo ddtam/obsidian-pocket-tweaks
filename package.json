@@ -1,0 +1,10 @@
+{
+  "name": "obsidian-navbar-omnisearch",
+  "version": "0.0.0",
+  "description": "Makes the phone navbar's search button open Omnisearch.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "brat:release": "node scripts/brat-release.mjs"
+  }
+}
