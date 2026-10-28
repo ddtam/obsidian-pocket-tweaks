@@ -1,4 +1,4 @@
-# Navbar Omnisearch
+# Omnisearch in Navbar
 
 An Obsidian plugin that makes the search button in the phone's bottom navbar open [Omnisearch](https://github.com/scambier/obsidian-omnisearch) instead of the core Quick Switcher. With search on that button, the navbar's right button can stay the ribbon menu. The plugin does nothing on desktop.
 
