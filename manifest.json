@@ -1,9 +1,9 @@
 {
-  "id": "navbar-omnisearch",
-  "name": "Omnisearch in Navbar",
+  "id": "pocket-tweaks",
+  "name": "Pocket Tweaks",
   "version": "0.1.1",
   "minAppVersion": "1.5.0",
-  "description": "Makes the search button in the phone's bottom navbar open Omnisearch instead of the Quick Switcher.",
+  "description": "Small conveniences, each a module with its own switch: the phone navbar's search button opens Omnisearch, and commands check or uncheck every task in a note.",
   "author": "Derek",
   "isDesktopOnly": false
 }
