@@ -1,7 +1,7 @@
 {
   "id": "pocket-tweaks",
   "name": "Pocket Tweaks",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "minAppVersion": "1.5.0",
   "description": "Small conveniences, each a module with its own switch: the phone navbar's search button opens Omnisearch, and commands check or uncheck every task in a note.",
   "author": "Derek",
